@@ -17,7 +17,7 @@ export default function ProfileHeader() {
           <OpenMenuButton/>
           <div className={'md:px-4'}>
             <div className={'font-semibold'}>
-              Anh Nhan Nguyen
+              Tran Van Tien
             </div>
             <div className={'text-[12px]'}>
               3 Posts, 25K Views
